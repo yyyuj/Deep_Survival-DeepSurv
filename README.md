@@ -1,3 +1,5 @@
+In this fork, I included the experiment (in notebooks) using DeepSurv method for demenitia risk prediction.
+
 # DeepSurv
 
 DeepSurv implements a deep learning generalization of the Cox proportional hazards model using Theano and Lasagne. 
